@@ -1,4 +1,4 @@
-# 🏠 Match Maker
+# 💃🕺 Match Maker
  Match Maker is a modern web application built with React and TypeScript. It provides a sleek UI powered by Tailwind CSS and is bundled with Vite for fast development and builds.
 
 ## 🚀 Features
